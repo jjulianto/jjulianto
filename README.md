@@ -37,4 +37,7 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
   <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
+<br />
+<br />
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Julianto08&show_icons=true)
