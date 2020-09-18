@@ -9,7 +9,7 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 
 ### Languages and Tools:
 
-<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" /></code>
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img width="26px" alt="Bootstrap" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Bootstrap-512.png" /></code>
