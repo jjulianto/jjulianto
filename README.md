@@ -30,8 +30,14 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <a href="https://www.linkedin.com/in/juli-anto-4a60241b4/">
     <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
+<a href="https://discord.com/invite/NMaYkxw">
+    <img align="left" width="24px" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" />
+</a>
+<a href="https://web.facebook.com/kaizuka.kaizuka.3/">
+    <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+</a>
 <a href="https://www.instagram.com/ijull.exe">
-  <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="mailto:jjulianto08@gmail.com">
   <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
