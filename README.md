@@ -40,7 +40,7 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
   <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="mailto:jjulianto08@gmail.com">
-  <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
 <br />
