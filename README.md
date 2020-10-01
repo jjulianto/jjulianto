@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
 My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm a 17 y/o and interested become a Front-end Web Developer. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering.
 
