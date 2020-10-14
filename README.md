@@ -28,7 +28,7 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/juli-anto-4a60241b4/">
+<a href="https://www.linkedin.com/in/julianto/">
     <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://discord.com/invite/NMaYkxw">
