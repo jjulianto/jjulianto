@@ -12,15 +12,15 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <code><img alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" /></code>
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img width="26px" alt="Bootstrap" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Bootstrap-512.png" /></code>
-<code><img width="26px" alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
+<code><img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></code>
+<code><img alt="Tailwind" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img width="35px" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.png" /></code>
-<code><img width="26px" alt="CodeIgniter" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" /></code>
-<code><img width="26px" alt="Laravel" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" /></code>
-<code><img width="26px" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></code>
+<code><img alt="PHP" width="35px" src="https://www.php.net/images/logos/new-php-logo.png" /></code>
+<code><img alt="CodeIgniter" width="26px" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" /></code>
+<code><img alt="Laravel" width="26px" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" /></code>
+<code><img alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></code>
 <code><img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 <code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
 <code><img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
