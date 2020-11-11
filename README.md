@@ -29,19 +29,19 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/julianto/">
-    <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://discord.com/invite/NMaYkxw">
-    <img align="left" width="24px" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" />
+    <img align="left" width="26px" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" />
 </a>
 <a href="https://web.facebook.com/kaizuka.kaizuka.3/">
-    <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+    <img align="left" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 <a href="https://www.instagram.com/ijull.exe">
-  <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="mailto:jjulianto08@gmail.com">
-  <img align="left" width="24px" src="https://seeklogo.net/wp-content/uploads/2020/10/gmail-logo.png" />
+  <img align="left" width="28px" src="https://seeklogo.net/wp-content/uploads/2020/10/gmail-logo.png" />
 </a>
 
 <br />
