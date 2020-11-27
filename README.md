@@ -2,7 +2,7 @@
 
 My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm a 17 y/o and interested become a Front-end Web Developer. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering.
 
-- 🔭 I’m currently working on [konsultasi-karir-bk](https://github.com/Julianto08/konsultasi-karir-bk)
+- 🔭 I’m currently working on [konsultasi-karir-bk](https://github.com/Azquiorra/konsultasi-karir-bk)
 - 🌱 I’m currently learning [CodeIgniter](http://codeigniter.com/)
 - 💬 Ask me about anything, I'll help as much as i can
 - ⚡ Fun fact: I'm an Anime viewer
@@ -47,4 +47,4 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <br />
 <br />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Julianto08&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Azquiorra&show_icons=true)
