@@ -47,4 +47,4 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <br />
 <br />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Azquiorra&show_icons=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Azquiorra)](https://github.com/anuraghazra/github-readme-stats)
