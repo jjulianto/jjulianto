@@ -18,7 +18,7 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <code><img alt="CodeIgniter" width="26px" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" /></code>
 <code><img alt="MySQL" width="26px" src="https://cdn.svgporn.com/logos/mysql.svg" /></code>
 <code><img alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></code>
-<code><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+<code><img alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-octocat.svg" /></code>
 
 <h3>Connect with me:</h3>
 
