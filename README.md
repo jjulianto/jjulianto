@@ -3,7 +3,7 @@
 My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm a 17 y/o and interested become a Front-end Web Developer. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering.
 
 - 🔭 I’m currently working on [bimbingan-karir-bk](https://github.com/Azquiorra/bimbingan-karir-bk)
-- 🌱 I’m currently learning [CodeIgniter](http://codeigniter.com/)
+- 🌱 I’m currently learning [CodeIgniter](http://codeigniter.com/), [ReactJS](https://reactjs.org/), [Golang](https://golang.org/)
 - 💬 Ask me about anything, I'll help as much as i can
 - ⚡ Fun fact: I'm an Anime viewer
 
@@ -14,8 +14,10 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></code>
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img alt="Webpack" width="26px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code>
 <code><img alt="PHP" width="35px" src="https://www.php.net/images/logos/new-php-logo.png" /></code>
 <code><img alt="CodeIgniter" width="26px" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" /></code>
+<code><img alt="Firebase" width="26px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code>
 <code><img alt="MySQL" width="26px" src="https://cdn.svgporn.com/logos/mysql.svg" /></code>
 <code><img alt="Git" width="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></code>
 <code><img alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-octocat.svg" /></code>
