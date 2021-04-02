@@ -25,19 +25,19 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/julianto/">
-    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discord.com/invite/NMaYkxw">
-    <img align="left" width="26px" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" />
+    <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://web.facebook.com/kaizuka.kaizuka.3/">
-    <img align="left" width="28px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+    <img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ijull.exe">
-  <img align="left" width="28px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:jjulianto08@gmail.com">
-  <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
+  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />
