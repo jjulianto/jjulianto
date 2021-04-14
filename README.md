@@ -44,6 +44,6 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <br />
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Azquiorra&show_icons=true" height=180 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azquiorra&layout=compact" height=180 />
+<img src="https://github-readme-stats.vercel.app/api?username=Azquiorra&theme=radical&show_icons=true" height=180 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azquiorra&theme=radical&layout=compact" height=180 />
 </p>	</p>
