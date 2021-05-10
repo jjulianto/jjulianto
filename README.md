@@ -2,8 +2,8 @@
 
 My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm a 17 y/o and interested become a Front-end Web Developer. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering.
 
-- 🔭 I’m currently working on [bimbingan-karir-bk](https://github.com/Azquiorra/bimbingan-karir-bk)
-- 🌱 I’m currently learning [CodeIgniter](http://codeigniter.com/), [ReactJS](https://reactjs.org/), [Golang](https://golang.org/)
+- 🔭 I’m currently working on [Foodrest](https://github.com/Azquiorra/Foodrest)
+- 🌱 I’m currently learning [PWA](https://web.dev/progressive-web-apps/), [ReactJS](https://reactjs.org/), [Golang](https://golang.org/)
 - 💬 Ask me about anything, I'll help as much as i can
 - ⚡ Fun fact: I'm an Anime viewer
 
@@ -46,4 +46,4 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Azquiorra&theme=radical&show_icons=true" height=180 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azquiorra&theme=radical&layout=compact" height=180 />
-</p>	</p>
+</p>
