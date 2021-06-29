@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm a 17 y/o and interested become a Front-end Web Developer. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering.
+My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm a 17 y/o and interested become a Front-end Web Developer.
 
 - 🔭 I’m currently working on [Foodrest](https://github.com/Azquiorra/Foodrest)
 - 🌱 I’m currently learning [PWA](https://web.dev/progressive-web-apps/), [ReactJS](https://reactjs.org/), [Golang](https://golang.org/)
