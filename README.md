@@ -27,7 +27,7 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <a href="https://www.linkedin.com/in/julianto/">
     <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://discord.com/invite/NMaYkxw">
+<a href="https://discord.gg/NGpu3Ygy9p">
     <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://web.facebook.com/kaizuka.kaizuka.3/">
