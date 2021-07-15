@@ -36,6 +36,9 @@ My name is Julianto, although I'm mostly called Ijul you can call me anything yo
 <a href="https://www.instagram.com/ijull.exe">
   <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://twitter.com/Azquiorra">
+  <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 <a href="mailto:jjulianto08@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
