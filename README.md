@@ -2,10 +2,9 @@
 
 My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm very interested become a Front-end Web Developer.
 
-<!-- - 🔭 I’m currently working on [Foodrest](https://github.com/Azquiorra/Foodrest) -->
-- 🌱 I’m currently learning [PWA](https://web.dev/progressive-web-apps/), [React JS](https://reactjs.org/), [Vue JS](https://vuejs.org/)
+- 🔭 I’m currently working on [Cashier App](https://github.com/jjulianto/cashier-app)
+- 🌱 I’m currently learning [React JS](https://reactjs.org/) and [Vue JS](https://vuejs.org/)
 - 💬 Ask me about anything, I'll help as much as i can
-- ⚡ Fun fact: I'm a person who likes anime
 
 ### Languages and Tools:
 
