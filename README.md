@@ -2,7 +2,7 @@
 
 My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm very interested become a Front-end Web Developer.
 
-- 🔭 I’m currently working on [Cashier App](https://github.com/jjulianto/cashier-app)
+- 🔭 I’m currently working on [MERN Blog](https://github.com/jjulianto/mern-blog)
 - 🌱 I’m currently learning [React JS](https://reactjs.org/) and [Vue JS](https://vuejs.org/)
 - 💬 Ask me about anything, I'll help as much as i can
 
