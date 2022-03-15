@@ -2,8 +2,8 @@
 
 My name is Julianto, although I'm mostly called Ijul you can call me anything you want. I'm very interested become a Front-end Web Developer.
 
-- 🔭 I’m currently working on [MERN Blog](https://github.com/jjulianto/mern-blog)
-- 🌱 I’m currently learning [React JS](https://reactjs.org/) and [Vue JS](https://vuejs.org/)
+- 🔭 I’m currently working on [Online Shop](https://github.com/jjulianto/online-shop)
+- 🌱 I’m currently learning [Vue JS](https://vuejs.org/) and [Nuxt JS](https://nuxtjs.org/)
 - 💬 Ask me about anything, I'll help as much as i can
 
 ### Languages and Tools:
